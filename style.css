@@ -1,0 +1,36 @@
+h1#title {
+    text-align: center;
+    font-size:300%;
+    color: rgba(240, 14, 14, 0.984);
+}
+p#description {
+    text-align: center;
+    font-size: 18px;
+}
+.table{
+    padding-top:100px;
+    font-size:larger;
+    font-style: italic;
+    outline: none;
+    border:none;
+    text-align: center;
+    color: rgb(12, 12, 12);
+}
+
+
+div{
+    font-size:large;
+    text-align: center;
+    background-color: rgba(228, 168, 39, 0.992);
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+}
+#form{
+    color: rgb(19, 19, 19);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+button{
+    color:aqua;
+    background-color: rgb(236, 32, 32);break-inside: ;
+    font-size: x-large;
+}
